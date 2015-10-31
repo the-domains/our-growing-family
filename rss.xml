@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[our growing family]]></title>
         <description><![CDATA[our growing family]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/our-growing-family/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 07:54:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 07:59:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/our-growing-family/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f153627-b6ca-4916-b219-6f9cae2aa871.jpg">]]></description>
+            <link>https://thegrid.ai/our-growing-family/1be575eb-4bdd-4455-9e32-96e61c9dfdd8/index.html</link>
+            <guid isPermaLink="false">1be575eb-4bdd-4455-9e32-96e61c9dfdd8</guid>
+            <pubDate>Sat, 31 Oct 2015 07:58:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e76dbe-bb39-4e1c-a162-be2fbf89716e.jpg" alt="" title="">]]></description>
-            <link>undefinedcaaf30ad-1701-4df6-b661-6f07355622e1/index.html</link>
+            <link>https://thegrid.ai/our-growing-family/caaf30ad-1701-4df6-b661-6f07355622e1/index.html</link>
             <guid isPermaLink="false">caaf30ad-1701-4df6-b661-6f07355622e1</guid>
             <pubDate>Sat, 31 Oct 2015 07:54:50 GMT</pubDate>
         </item>
